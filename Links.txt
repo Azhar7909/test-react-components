@@ -1,0 +1,6 @@
+1)  https://www.toptal.com/react/tdd-react-user-stories-to-development
+2)  https://medium.com/@feralamillo/create-react-app-typescript-testing-with-jest-and-enzyme-869fdba1bd3
+3)  sir aamir pinger describe and share link ( Type vs Interface)
+    https://stackoverflow.com/questions/37233735/typescript-interfaces-vs-types/54101543#54101543
+4)  jest official website
+    https://jestjs.io/docs/en/getting-started
